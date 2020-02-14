@@ -1,5 +1,5 @@
 # docker-laravel
-#Container PHP com laravel 
+#Container PHP com laravel e composer instalado 
 
 1 - Run command on the path
 
